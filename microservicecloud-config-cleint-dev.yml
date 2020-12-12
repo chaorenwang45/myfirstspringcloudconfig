@@ -1,8 +1,6 @@
 spring:
     application:
-        name: microservicecloud-config-client-dev
-server:
-    port: 3355        
+        name: microservicecloud-config-client-dev    
 eureka:
   client: #客户端注册进eureka服务列表内
     service-url:
